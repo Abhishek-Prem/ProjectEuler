@@ -1,2 +1,3 @@
-# ProjectEuler
+# ProjectEuler 
 Project Euler #1 - ...
+Solving projecteuler questions from #1.
